@@ -1,0 +1,32 @@
+c[?7l[2J[0mSeaBIOS (version 1.16.3-debian-1.16.3-2)
+
+
+iPXE (https://ipxe.org) 00:03.0 CA00 PCI2.10 PnP PMM+3EFCB3C0+3EF0B3C0 CA00
+Press Ctrl-B to configure iPXE (PCI 00:03.0)...                                                                               
+
+
+Booting from Hard Disk...
+Boot failed: could not read the boot disk
+
+Booting from Floppy...
+Loading EPOS .. done
+
+*** This is EPOS!
+
+Setting up this machine as follows: 
+  Mode:         library
+  Processor:    1 x IA32 at 2000 MHz (BUS clock = 2000 MHz)
+  Machine:      PC
+  Memory:       1048576 KB [0x00000000:0x40000000]
+  User memory:  1047472 KB [0x00000000:0x3feec000]
+  I/O space:    28356 KB [0xfd000000:0xfebb1000]
+  Node Id:      will get from the network!
+  Position:     will get from the network!
+  Setup:        22528 bytes
+  APP code:     20480 bytes	data: 4214784 bytes
+
+Hello world!
+
+
+*** The last thread under control of EPOS has finished.
+*** EPOS is shutting down!
